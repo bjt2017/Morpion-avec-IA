@@ -13,4 +13,4 @@
 
 - Facile
 
-![](image/ia-facile.gif)
+![](gif/ia-facile.gif)
