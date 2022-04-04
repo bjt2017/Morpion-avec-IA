@@ -1,13 +1,13 @@
 # Morpion-avec-IA
 
 ## Introduction
-- Projet realise pour le cours de NSI 
+- Projet réalisé en terminale pour le cours de NSI 
 - codé avec python 
-- librairie utilisée : tkinter, time 
+- librairies utilisées : tkinter, time 
 
-## Presentation
+## Présentation
 
-- Le but etais de faire un morpion avec la librairie tkinter et une inteligence artificielle qui a plusieurs niveaux de dificulter 
+- Le but est de faire un morpion avec la librairie tkinter et une inteligence artificielle avec plusieurs niveaux de difficultés 
 
 ## Visuel
 
@@ -23,7 +23,7 @@
 
 ![](gif/ia-difficile.gif)
 
-## Comment intaller 
+## Comment intaller le jeu
 
-- Installer tout les fichiers
-- Installer la libraire pygame et lancer le ficher jeu.py
+- Installer tous les fichiers
+- Installer la librairie pygame et lancer le fichier jeu.py
