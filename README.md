@@ -17,8 +17,13 @@
 
 - Moyen
 
-![](gif/ia-moyen.gif)
+![](gif/ai-moyen.gif)
 
-- Difficile/Impossible
+- Difficile
 
-![](gif/ia-dificile.gif)
+![](gif/ia-difficile.gif)
+
+## Comment intaller 
+
+- Installer tout les fichiers
+- Installer la libraire pygame et lancer le ficher jeu.py
