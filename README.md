@@ -14,3 +14,11 @@
 - Facile
 
 ![](gif/ia-facile.gif)
+
+- Moyen
+
+![](gif/ia-moyen.gif)
+
+- Difficile/Impossible
+
+![](gif/ia-dificile.gif)
